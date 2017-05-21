@@ -1,0 +1,35 @@
+.users{
+	float: left;
+	width: 150px;
+ 	display: inline-block;
+	padding:20px;
+	margina: 10px;
+	border: 1px solid black;
+}
+
+.friends{
+	float: left;
+	width: 150px;
+ 	display: inline-block;
+	padding:20px;
+	margina: 10px;
+	border: 1px solid black;
+}
+
+.acquaintances{
+	float: left;
+	width: 150px; 
+	display: inline-block;
+	padding:20px;
+	margina: 10px;
+	border: 1px solid black;
+}
+
+.suggested{ 
+	float: left;
+	width: 150px; 
+	display: inline-block;
+	padding:20px;
+	margina: 10px;
+	border: 1px solid black;
+}
